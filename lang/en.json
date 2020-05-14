@@ -1,0 +1,25 @@
+{
+    "cabeceraInicio": "Home",
+    "cabeceraAbout": "About me",
+    "cabeceraPublicaciones": "Publications",
+    "cabeceraDocencia": "Classes",
+    "cabeceraContacto": "Contact",
+
+    "resumenText": "<span>Ph.D in Computer Science.</span> MSc. in <span>Data Science</span> and Computer Engineering.",
+
+    "aboutMeText": "I am a Ph.D. in computer science specialized in information systems and its intelligent treatment. Nowadays, I am a member of \"Intelligent Systems and Data Mining\" (<a href=https://simidat.ujaen.es>SiMiDat</a>) reserach group at the University of Jaén. My main research interests is the extraction of descriptive rules through supervised learning using <i>soft computing</i> techniques in <i>Big Data</i> environments or in continuous data flows, generally known as <i> data streams</i>." ,
+
+    "cabeceraCharlas": "Curriculim vitae",
+    "cabeceraCharlasInvitadas": "Invited talks & seminars",
+    "cabeceraRevisor": "Reviewer in international journals",
+    "cabeceraEducacion": "Education",
+    "cabeceraTrabajo": "Work",
+    "cabeceraPremios": "Awards & distinctions",
+    
+    "papersTitle": "Publications in international journals",
+    "booksTitle": "Book chapters",
+    "conferencesTitle": "Conferences",
+    "otherPublicationsTitle": "Other publications",
+    "contactoCabecera": "We are in touch",
+    "contactoTexto": "If you are interested in contacting me, you can do it through the address <a href=\"mailto:agvico@ujaen.es\">agvico@ujaen.es</a> or through my social networks."
+}

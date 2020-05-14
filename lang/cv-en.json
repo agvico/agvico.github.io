@@ -1,0 +1,114 @@
+{
+    "talks": [
+        {
+            "name": "Supervised Descriptive Rule Models for the Extraction of Knowledge in Big Data and Data Streams",
+            "venue": "Intelligent Systems Lab, University of Bristol, Bristol (UK)",
+            "date": "Noviembre 2018"
+        },
+        {
+            "name": "Supervised Descriptive Rule Models for the Extraction of Knowledge in Big Data and Data Streams",
+            "venue": "School of Computing and Informatics, De Monfort University, Leicester (UK)",
+            "date": "Diciembre 2018"
+        } 
+    ],
+
+    "revisor": [
+	    "IEEE Access",
+        "Cognitive Computation",
+	"Progress in Artificial Intelligence"
+    ],
+
+    "prizes": [
+        {
+            "name": "Best Student Award",
+            "date": "June 2015",
+            "description": "Degree in Computer Engineering (2011-2015 class)"
+        },
+
+        {
+            "name": "Best work of initiation to research",
+            "date": "September 2018",
+            "description": "IV Ada Lovelace awards. University of Jaén"
+        }, 
+        {
+            "name": "Best research work",
+            "date": "May 2019",
+            "description": "V Doctoral Conferences in Information and Communication Technologies. University of Jaén"
+        },
+        {
+            "name": "Best paper",
+            "date": "October 2018",
+            "description": "II Workshop in Big Data y Scalable Data Analysis (XVIII Conference of the Spanish Association for AI (CAEPIA)"
+        } 
+    ],
+
+    "education": [
+	    {
+	    	"title": "Ph. D. Computer Science",
+		"subtitle": "Cum Laude calification",
+		"venue": "University of Jaén",
+		"date": "April 2020"
+	    },
+        {
+            "title": "MSc in Data Science and Computer Engineering",
+            "subtitle": "Specialisation in Data Science and Intelligent Technologies",
+            "venue": "University of Granada",
+            "date": "September 2016"
+        },
+        {
+            "title": "Degree in Computer Engineering",
+            "subtitle": "Specialisaton in Intelligent Treatment of the Information",
+            "venue": "University of Jaén",
+            "date": "June 2015",
+            "prize": "Best Student Award"
+        }
+    ],
+
+    "work": [
+	    {
+	    	"position": "Postdoctoral researcher",
+		"firm":	"University of Jaén",
+		"date": {
+			"from": "Apr 2020",
+			"to": "Now"
+		},
+		"description": "Development of research within the SiMiDat research group."
+	    },
+        {
+            "position": "PhD Student",
+            "firm": "University of Jaén",
+            "date": {
+                "from": "May 2017",
+                "to": "Apr 2020"
+            },
+            "description": "Development of doctoral thesis in the SiMiDat research group of the Department of Computer Science of the University of Jaén."  
+        },
+        {
+            "position": "PAS Contratado Laboral",
+            "firm": "University of Jaén",
+            "date": {
+                "from": "December 2016",
+                "to": "April 2017"
+            },
+            "description": "Development of research tasks within the research group Intelligent Systems and Data Mining (SIMIDAT) of the University of Jaén related to the development of a research project assigned to the group. Likewise, I carry out maintenance tasks of the different computer equipment that are part of the research group."  
+        },
+        {
+            "position": "PAS Contratado Laboral",
+            "firm": "University of Jaén",
+            "date": {
+                "from": "November 2015",
+                "to": "December 2015"
+            },
+            "description": "Development of the backend for the application \"dmServer\" consisting of an online application for the application of data mining methods. The development of this backend has been developed in php with a MySQL database with different linux systems administration tasks. Application available at http://simidat-apps.ujaen.es "  
+        },
+        {
+            "position": "Colaboration Scholarship of the Spanish Ministry of Education (Initiation to research)",
+            "firm": "University of Jaén",
+            "date": {
+                "from": "November 2014",
+                "to": "June 2015"
+            },
+            "description": "Development of a project in collaboration with the research group SIMIDAT of the Department of Computer Science of the University of Jaén consisting of the development of a package of algorithms for the extraction of descriptive rules based on supervised learning (subgroup discovery) for the R programming language. "  
+        }
+    ]
+} 
