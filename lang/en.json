@@ -2,14 +2,14 @@
     "cabeceraInicio": "Home",
     "cabeceraAbout": "About me",
     "cabeceraPublicaciones": "Publications",
-    "cabeceraDocencia": "Classes",
+    "cabeceraDocencia": "Teaching",
     "cabeceraContacto": "Contact",
 
     "resumenText": "<span>Ph.D in Computer Science.</span> MSc. in <span>Data Science</span> and Computer Engineering.",
 
-    "aboutMeText": "I am a Ph.D. in computer science specialized in information systems and its intelligent treatment. Nowadays, I am a member of \"Intelligent Systems and Data Mining\" (<a href=https://simidat.ujaen.es>SiMiDat</a>) reserach group at the University of Jaén. My main research interests is the extraction of descriptive rules through supervised learning using <i>soft computing</i> techniques in <i>Big Data</i> environments or in continuous data flows, generally known as <i> data streams</i>." ,
+    "aboutMeText": "I am a Ph.D. in computer science specialized in information systems and its intelligent treatment. Nowadays, I am a member of the Andalusian Research Institute in Data Science and Computational Intelligence (<a href=https://dasci.es>DaSCI</a>) and a post-doc reseracher at the Department of Computer Science and Artificial Intelligence of the University of Granada. My main research interests is the extraction of descriptive rules through supervised learning using <i>soft computing</i> techniques in <i>Big Data</i> environments or in data streams</i>. I am also interested in efficient deep learning techniques, namely by the use of the so-called <i>spiking neural networks</i>." ,
 
-    "cabeceraCharlas": "Curriculim vitae",
+    "cabeceraCharlas": "Curriculum vitae",
     "cabeceraCharlasInvitadas": "Invited talks & seminars",
     "cabeceraRevisor": "Reviewer in international journals",
     "cabeceraEducacion": "Education",
@@ -21,5 +21,5 @@
     "conferencesTitle": "Conferences",
     "otherPublicationsTitle": "Other publications",
     "contactoCabecera": "We are in touch",
-    "contactoTexto": "If you are interested in contacting me, you can do it through the address <a href=\"mailto:agvico@ujaen.es\">agvico@ujaen.es</a> or through my social networks."
+    "contactoTexto": "If you are interested in contacting me, you can do it through the address <a href=\"mailto:agvico@decsai.ugr.es\">agvico@decsai.ugr.es</a> or through my social networks."
 }

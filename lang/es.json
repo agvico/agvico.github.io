@@ -7,19 +7,19 @@
 
     "resumenText": "<span>Doctor en Informática.</span> Máster en <span>Ciencia de Datos</span> e Ingeniería de Computadores.",
 
-    "aboutMeText": "Soy doctor en informática especializado en sistemas de información y tratamiento inteligente de la misma. Actualmente soy miembro del grupo de investigación \"Sistemas Inteligentes y Minería de Datos\" (<a href=https://simidat.ujaen.es>SiMiDat</a>) de la Universidad de Jaén. Mi principal interés de investigasción está enfocado a la extracción de reglas descriptivas mediante aprendizaje supervisado utilizando para ello técnicas de <i>soft computing</i> en entornos <i>Big Data</i> o en flujos continuos de datos, generalmente conocidos como <i> data streams</i>.",
+    "aboutMeText": "Soy doctor en informática especializado en sistemas de información y tratamiento inteligente de la misma. Actualmente soy miembro del Instituto Andaluz Interuniversitario en Data Science and Computational Intelligence (<a href=https://dasci.eses>DaSCI</a>) e investigador posdoctoral en el Departamento de Ciencias de la Computación e Inteligencia Artificial de la Universidad de Granada. Mis interés de investigación están enfocado a la extracción de reglas descriptivas mediante aprendizaje supervisado utilizando para ello técnicas de <i>soft computing</i> en entornos <i>Big Data</i> o en flujos continuos de datos, conocidos como <i> data streams</i>. También estoy interesado en deep learning eficiente a través del empleo de <i>spiking neural networks</i>.",
 
-    "cabeceraCharlas": "Curriculim vitae",
+    "cabeceraCharlas": "Curriculum Vitae",
     "cabeceraCharlasInvitadas": "Charlas Invitadas y Seminarios",
-    "cabeceraRevisor": "Revisor en revistas internacionales",
+    "cabeceraRevisor": "Revisor en Revistas Internacionales",
     "cabeceraEducacion": "Educación",
     "cabeceraTrabajo": "Experiencia Laboral",
-    "cabeceraPremios": "Premios y distinciones",
+    "cabeceraPremios": "Premios y Distinciones",
     
-    "papersTitle": "Artículos en revistas internacionales",
+    "papersTitle": "Artículos en Revistas Internacionales",
     "booksTitle": "Capítulos de Libro",
-    "conferencesTitle": "Comunicaciones en congresos",
+    "conferencesTitle": "Comunicaciones en Congresos",
     "otherPublicationsTitle": "Otras Comunicaciones",
     "contactoCabecera": "Estamos en contacto",
-    "contactoTexto": "Si está interesado en contactar conmigo, puede realizarlo a través de la dirección <a href=\"mailto:agvico@ujaen.es\">agvico@ujaen.es</a> o bien por mis redes sociales."
+    "contactoTexto": "Si está interesado en contactar conmigo, puede realizarlo a través de la dirección <a href=\"mailto:agvico@decsai.ugr.es\">agvico@decsai.ugr.es</a> o bien por mis redes sociales."
 }

@@ -66,12 +66,21 @@
     ],
 
     "work": [
+        {
+            "position": "Personal Investigador Doctor",
+            "firm": "Universidad de Granada",
+            "date": {
+                "from": "Febrero 2021",
+                "to": "Actualidad"
+            },
+            "description": "Desarrallo de investigación sobre data streams mining y apertura de nuevas líneas de investigación dentro del Instituto Interuniversitario en Ciencia de Datos e Inteligencia Artificial (DaSCI)."
+        },
 	    {
 		    "position": "Investigador postdoctoral FPI",
 		    "firm": "Universidad de Jaén",
 		    "date": {	
 		    	"from": "Abril 2020",
-			"to": "Actualidad"
+			"to": "Enero 2021"
 		    },
 		   "description": "Desarrollo de investigación en el grupo de investigación SiMiDat del Departamento de Informática de la Universidad de Jaén."
 	    },
