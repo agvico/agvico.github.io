@@ -65,12 +65,21 @@
     ],
 
     "work": [
+        {
+            "position": "Post-doctoral researcher",
+            "firm": "University of Granada",
+            "date": {
+                "from": "Feb 2021",
+                "to": "Now"
+            },
+            "description": "Development of research tasks on data stream mining and exploration of new research opportunities within the Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)."
+        },
 	    {
 	    	"position": "Postdoctoral researcher",
 		"firm":	"University of Jaén",
 		"date": {
 			"from": "Apr 2020",
-			"to": "Now"
+			"to": "Jan 2021"
 		},
 		"description": "Development of research within the SiMiDat research group."
 	    },
